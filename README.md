@@ -5,4 +5,5 @@
 ![Screenshot of Arduino IDE showing selected board & port](screenshot2.png)
 
 - Video of the ESP32 blinking LED
+
 ![](demo.gif)
